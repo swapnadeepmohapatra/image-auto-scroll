@@ -1,4 +1,4 @@
-<!-- [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) -->
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 # image-auto-scroll
 
@@ -42,7 +42,7 @@ Simply place a `<BackgroundCarousel />` .
 ```
 
 import React from "react";
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, View } from "react-native";
 import { ImageCarousel } from "image-auto-scroll";
 
 const images = [
