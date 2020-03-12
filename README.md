@@ -30,7 +30,7 @@ Simply place a `<BackgroundCarousel />` .
 
 ```
 <View style={{flex:1}}>
-    <BackgroundCarousel images={images} time={2000} />
+    <ImageCarousel images={images} time={2000} />
 </View>
 ```
 
@@ -56,7 +56,7 @@ const images = [
 export default function App() {
  return (
    <View style={styles.container}>
-     <BackgroundCarousel images={images} time={2000} />
+     <ImageCarousel images={images} time={2000} />
    </View>
  );
 }
