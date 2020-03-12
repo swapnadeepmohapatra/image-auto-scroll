@@ -1,0 +1,29 @@
+{
+  "name": "image-auto-scroll",
+  "version": "1.0.0",
+  "description": "a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swapnadeep",
+  "license": "ISC",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "scroll",
+    "auto-scroll",
+    "BackgroundCarousel",
+    "background-carousel",
+    "ad-scroll",
+    "background-scroll",
+    "image-animate"
+  ]
+}
