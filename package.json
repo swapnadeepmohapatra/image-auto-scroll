@@ -1,10 +1,14 @@
 {
   "name": "image-auto-scroll",
   "version": "1.0.0",
-  "description": "a package",
+  "description": "A simple React Native component that implements Auto Scrolling Image Carousel.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnadeepmohapatra/image-auto-scroll.git"
   },
   "author": "Swapnadeep",
   "license": "ISC",
@@ -25,5 +29,16 @@
     "ad-scroll",
     "background-scroll",
     "image-animate"
-  ]
+  ],
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  },
+  "bugs": {
+    "url": "https://github.com/swapnadeepmohapatra/image-auto-scroll/issues"
+  },
+  "homepage": "https://github.com/swapnadeepmohapatra/image-auto-scroll#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2"
+  }
 }
