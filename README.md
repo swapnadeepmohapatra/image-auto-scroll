@@ -11,13 +11,13 @@ A simple React Native component that implements Auto Scrolling Image Carousel.
 If using yarn:
 
 ```
-yarn add react-native-progress-steps
+yarn add image-auto-scroll
 ```
 
 If using npm:
 
 ```
-npm i react-native-progress-steps
+npm i image-auto-scroll
 ```
 
 ## Usage
